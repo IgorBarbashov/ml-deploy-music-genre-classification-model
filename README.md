@@ -1,1 +1,2 @@
+- Lessons: https://www.youtube.com/playlist?list=PL-aDfJxlxktwqi4AfMXNlXncFsKEZdL-L
 - Датасет: [Music Genre Classification](https://www.kaggle.com/datasets/purumalgi/music-genre-classification)
